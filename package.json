@@ -1,6 +1,13 @@
 {
-  "name": "reactstart",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+    "name": "reactstart",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "webpack"
+    },
+    "devDependencies": {
+        "html-webpack-plugin": "^2.28.0",
+        "webpack": "^2.5.1"
+    }
 }
