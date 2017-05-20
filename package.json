@@ -20,5 +20,8 @@
         "webpack": "^2.5.1",
         "webpack-dev-server": "^2.4.5",
         "webpack-merge": "^4.1.0"
+    },
+    "dependencies": {
+        "normalize.css": "^7.0.0"
     }
 }
