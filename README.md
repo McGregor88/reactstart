@@ -7,3 +7,5 @@
 <p>pug: 2.0.0-rc.1</p>
 <p>pug-loader: ^2.3.0</p>
 <p>webpack: 2.5.1</p>
+<p>webpack-dev-server: 2.4.5</p>
+<p>webpack-merge: 4.1.0</p>
