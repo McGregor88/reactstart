@@ -446,9 +446,9 @@ template {
   display: none;
 }
 ul {
-  color: turquoise;
-  border: 1px solid #E9DC51; }
+  border: 1px solid #777;
+  background: url(../images/menu.svg) no-repeat; }
   ul li {
     display: inline-block;
     padding: 5px 10px;
-    background: darkslateblue; }
+    background: #bbb; }

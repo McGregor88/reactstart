@@ -1,4 +1,4 @@
-# react page
+# react page on webpack
 
 <h2>devDependencies:</h2>
 
